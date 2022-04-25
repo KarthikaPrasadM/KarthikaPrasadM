@@ -22,4 +22,4 @@
 [website]: https://nandu26m.github.io/
 [youtube]: https://www.youtube.com/channel/UCB0bH7hsqfKpS1s5YfAA0AQ?view_as=subscriber
 [instagram]: https://www.instagram.com/_karthika_prasad
-[linkedin]:  https:/https://www.linkedin.com/in/karthika-prasad-python-developer
+[linkedin]:  https://www.linkedin.com/in/karthika-prasad-python-developer/
