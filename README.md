@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning AI/ML/DL
 - 💞️ I’m looking to collaborate on Python/AI/ML/DL projects.
 - 🐕 I have 2 dogs and their names are Kesu and Shadow.
-- 📫 How to reach me: karthikacusat92@gmail.com/ karthikaprasadmazukkavil@gmail.com
+- 📫 How to reach me: karthikacusat92@gmail.com/ karthika.mtprasad@gmail.com
 
 
 ### Connect with me:
