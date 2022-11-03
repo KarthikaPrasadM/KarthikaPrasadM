@@ -4,7 +4,7 @@
 - 👀 I’m interested in Python development
 - 🌱 I’m currently learning AI/ML/DL
 - 💞️ I’m looking to collaborate on Python/AI/ML/DL projects.
-- 🐕 I have 2 dogs and their names are Kesu and Shadow.
+- 🐕 I have a dog and his name is Kesu.
 - 📫 How to reach me: karthikacusat92@gmail.com/ karthika.mtprasad@gmail.com
 
 
